@@ -1,3 +1,9 @@
+<p align=”center”>
+
+<img width="1834" alt="Make your README" src="https://github.com/fhotts/fhotts/assets/122341337/d4d04ab3-9388-4136-846f-0adcdddc832a">
+
+</p>
+
 ### Hey there! 👋
 
 My name is Fábio Hotts. I am a Data Science enthusiast with a strong background in business.
