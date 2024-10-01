@@ -13,8 +13,3 @@ With over three years of experience in SQL, data analysis, statistics, and Pytho
 I recently completed an MBA in Data Science & Artificial Intelligence at FIAP, where I gained hands-on experience in data analysis, machine learning, and data modeling. I’m skilled in Python and SQL for data manipulation, statistical modeling, and cloud environments like GCP and Azure. I’m constantly learning and exploring advanced data analytics methods to stay current and deliver impactful insights.
 
 I’m always on the lookout for new challenges and opportunities to collaborate on exciting data science projects.
-
-🔗 Reach me at:
-  <div> 
-  <a href="https://www.instagram.com/fabiohotts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:fhotts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fhotts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
