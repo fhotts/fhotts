@@ -4,7 +4,7 @@
 
 </p>
 
-### Hey there! 👋
+### Hey there! 👋🏼
 
 My name is Fábio Hotts, and I’m a Business Analyst with a passion for Data Science.
 
