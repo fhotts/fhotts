@@ -6,17 +6,14 @@
 
 ### Hey there! 👋
 
-My name is Fábio Hotts. I am a Data Science enthusiast with a strong background in business.
+My name is Fábio Hotts, and I’m a Business Analyst with a passion for Data Science.
 
-Python is my preferred programming language, and I am continually enhancing my skills in this domain to create effective data-driven solutions.
+With over three years of experience in SQL, data analysis, statistics, and Python, I’ve developed a solid foundation in data-driven decision-making. My strong business acumen comes from more than six years at Uber, where I’ve seen firsthand how data drives operational improvements and strategic decision-making.
 
-I am eager to become part of the Data Science community and am always on the lookout for new challenges and opportunities to apply my knowledge to relevant projects. Whether you are interested in collaborations, networking, or simply discussing innovative ideas, please feel free to reach out to me. Let's work together to advance the world of data analysis and artificial intelligence!
+I recently completed an MBA in Data Science & Artificial Intelligence at FIAP, where I gained hands-on experience in data analysis, machine learning, and data modeling. I’m skilled in Python and SQL for data manipulation, statistical modeling, and cloud environments like GCP and Azure. I’m constantly learning and exploring advanced data analytics methods to stay current and deliver impactful insights.
 
-- 🎓 I'm currently pursuing an MBA in Data Science & Artificial Intelligence at FIAP, where I am honing my skills in data analysis, machine learning, and artificial intelligence.
-- 📚 I am also completing a statistics course to further strengthen my command of analytical techniques.
-- 👯 I’m looking to collaborate on Data Science Projects & Challenges
-- 🤔 I’m looking for help with how to improve my skills and land a job as a junior data scientist!
-- 💬 Ask me about anything! :)
+I’m always on the lookout for new challenges and opportunities to collaborate on exciting data science projects.
+
 - 🔗 Reach me at:
   <div> 
   <a href="https://www.instagram.com/fabiohotts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:fhotts@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/fhotts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
