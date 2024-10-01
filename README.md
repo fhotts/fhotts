@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="1834" alt="Make your README" src="https://github.com/fhotts/fhotts/assets/122341337/d4d04ab3-9388-4136-846f-0adcdddc832a">
+<img width="1834" alt="read.me picture" src="https://github.com/user-attachments/assets/57afae28-3fba-4947-89e6-2f1a054f6a50">
 
 </p>
 
@@ -13,3 +13,4 @@ With over three years of experience in SQL, data analysis, statistics, and Pytho
 I recently completed an MBA in Data Science & Artificial Intelligence at FIAP, where I gained hands-on experience in data analysis, machine learning, and data modeling. I’m skilled in Python and SQL for data manipulation, statistical modeling, and cloud environments like GCP and Azure. I’m constantly learning and exploring advanced data analytics methods to stay current and deliver impactful insights.
 
 I’m always on the lookout for new challenges and opportunities to collaborate on exciting data science projects.
+
